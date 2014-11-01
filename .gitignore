@@ -1,0 +1,7 @@
+.idea
+/assets
+/nb
+*.log
+/protected/runtime
+*.*~
+*~
